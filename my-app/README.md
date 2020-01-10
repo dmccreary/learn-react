@@ -1,3 +1,5 @@
+This repo is Dan McCreary's example react code for his learning react.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
